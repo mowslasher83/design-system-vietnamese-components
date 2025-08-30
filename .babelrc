@@ -1,7 +1,7 @@
 {
-  // Presets for Babel configuration
+  // Presets cho cấu hình Babel
   "presets": [
-    "@babel/preset-env",  // Transpiles ES6+ down to ES5
-    "@babel/preset-react" // Transforms JSX into JavaScript
+    "@babel/preset-env",  // Biên dịch ES6+ xuống ES5
+    "@babel/preset-react" // Chuyển đổi JSX thành JavaScript
   ]
 }
