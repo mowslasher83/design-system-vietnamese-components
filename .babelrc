@@ -1,6 +1,7 @@
 {
+  // Presets for Babel configuration
   "presets": [
-    "@babel/preset-env",
-    "@babel/preset-react"
+    "@babel/preset-env",  // Transpiles ES6+ down to ES5
+    "@babel/preset-react" // Transforms JSX into JavaScript
   ]
 }
